@@ -15,5 +15,4 @@ public class DoormanProxy {
     private void hello(){
         System.out.println("hello");
     }
-
 }
