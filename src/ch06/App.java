@@ -38,4 +38,5 @@ public class App {
         Notifier n8 = new EmailNotifier(new SmsNotifier());
         알림(n8);
     }
+    
 }
